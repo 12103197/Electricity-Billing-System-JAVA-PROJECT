@@ -38,15 +38,15 @@ public class ElectricityBillingSystem1 extends JFrame implements ActionListener{
         bg.add(r1);
         bg.add(r2);
  
-        l1.setBounds(100, 30, 400, 30);
-        l2.setBounds(80, 70, 200, 30);
-        l3.setBounds(80, 110, 200, 30);
-        tf1.setBounds(300, 70, 200, 30);
-        btn1.setBounds(150, 150, 150, 30);
-        r1.setBounds(200, 200, 100, 30);
-        r2.setBounds(200, 240, 100, 30);
-        cb1.setBounds(200, 280, 200, 30);
-        cb2.setBounds(200, 320, 200, 30);
+        l1.setBounds(200, 60, 800, 60);
+        l2.setBounds(160, 140, 400, 60);
+        l3.setBounds(160, 220, 400, 60);
+        tf1.setBounds(600, 140, 400, 60);
+        btn1.setBounds(300, 300, 300, 60);
+        r1.setBounds(400, 400, 200, 60);
+        r2.setBounds(400, 480, 200, 60);
+        cb1.setBounds(400, 560, 400, 60);
+        cb2.setBounds(400, 640, 400, 60);
  
         add(l1);
         add(l2);
